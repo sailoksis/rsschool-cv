@@ -26,3 +26,14 @@ if(typeof fck === 'number' || fck === 0 ){
   return true;}})}
    ```
 *********
+ 
+## Work Experience
+
+**Logistics Specialist**
+*Nova SCM*
+*November 2022 - Present*
+
+- Coordinated transportation and delivery of goods
+- Monitored inventory levels and implemented strategies to optimize warehouse efficiency
+- Developed and maintained relationships with suppliers and customers
+*********
