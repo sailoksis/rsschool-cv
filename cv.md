@@ -37,3 +37,18 @@ if(typeof fck === 'number' || fck === 0 ){
 - Monitored inventory levels and implemented strategies to optimize warehouse efficiency
 - Developed and maintained relationships with suppliers and customers
 *********
+
+## Education
+
+**Bachelor's Degree in Custom Affairs**
+*Saint-Petersburg University*
+*September 2017 - June 2022*
+
+**Stepik. Html, Css online course**
+*May 2020 - June 2020*
+![Stepik photo](https://stepik.org/certificate/661034f659c4a8c2eca4fb4d5f4604818d3897e3.png?resolution=low)
+*********
+## English Language
+
+Studied English independently. I can have simple conversations. I didn't take the IELTS, but I think I'm at least B1.
+
