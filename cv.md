@@ -9,11 +9,11 @@ I am a logistics professional with a passion for programming. My goal is to comb
 *********
 ## Skills
 
-- Programming languages: JavaScript
-- Frameworks: React
+- Programming languages: JavaScript, TypeScript
+- Frameworks: React, Redux
 - Methodologies: BEM — Block Element Modifier
 - Version control systems: Git
-- Development tools: Gulp, Visual Studio Code
+- Development tools: Gulp, Visual Studio Code, WebPack, ESLint
 *********
 ## Code Example
 
